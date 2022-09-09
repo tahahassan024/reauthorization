@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/var/www/html/Laravel/meccabooks/vsf/nuxtapp/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_63fd643b"
+  }
+]
